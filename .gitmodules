@@ -1,0 +1,3 @@
+[submodule "Assets/SubModule"]
+	path = Assets/SubModule
+	url = git@github.com:ckyun777/SubModule1.git
